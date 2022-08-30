@@ -10,6 +10,7 @@ Projekat se sastoji od:
 5. isporuka softvera, dokumentacije i korisničkog uputstva.
 
 TEMA PROJEKTNOG ZADATKA:
+
 Implementirati jednostavnu aplikaciju za rad aerodroma. Radnici treba da imaju mogućnost prijave na sistem unosom korisničkog imena i lozinke, a podaci o registrovanim korisnicima se čuvaju u binarnoj datoteci u sklopu aplikacije.
 
 Kada se prijave na sistem, korisnici mogu koristiti različite opcije, u zavisnosti od vrste naloga koje imaju. Potrebno je realizovati četiri vrste korisničkih naloga: operater, kontrolor, šef i administrator.
