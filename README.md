@@ -1,6 +1,15 @@
 # OSI2021-Grupa-10
 Projektni zadatak iz Osnova softverskog inženjerstva
 
+Projekat se sastoji od:
+
+1. definisanje zahtjeva i izrada prateće dokumentacije,
+2. dizajn sistema,
+3. implementacija sistema,
+4. testiranje softvera,
+5. isporuka softvera, dokumentacije i korisničkog uputstva.
+
+TEMA PROJEKTNOG ZADATKA:
 Implementirati jednostavnu aplikaciju za rad aerodroma. Radnici treba da imaju mogućnost prijave na sistem unosom korisničkog imena i lozinke, a podaci o registrovanim korisnicima se čuvaju u binarnoj datoteci u sklopu aplikacije.
 
 Kada se prijave na sistem, korisnici mogu koristiti različite opcije, u zavisnosti od vrste naloga koje imaju. Potrebno je realizovati četiri vrste korisničkih naloga: operater, kontrolor, šef i administrator.
