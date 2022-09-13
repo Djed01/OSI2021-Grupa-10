@@ -1,5 +1,5 @@
 # OSI2021-Grupa-10
-Projektni zadatak iz Osnova softverskog inženjerstva
+### Projektni zadatak iz *Osnova softverskog inženjerstva*
 
 Projekat se sastoji od:
 
