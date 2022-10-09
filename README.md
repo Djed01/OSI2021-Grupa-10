@@ -23,7 +23,7 @@ Nalog za šefove omogućava pregled izvještaja o završenim letovima na dnevnom
 
 Naloge svih zaposlenih kreiraju/brišu administratori. Nalozi se mogu privremeno suspendovati, pri čemu se ne brišu već se korisnici ne mogu prijaviti na sistem. U sistemu postoje najviše 2 administratora i 3 šefa.
 
-=======================================================================================================================================================================
+====================================================================================
 
 Project specification:
 
@@ -41,7 +41,7 @@ Administrators can create or delete accounts of all the users in the system. Acc
 
 This is a console application. Tests for this application are written in detail, there is a final report, as well as a manual for installation and SRS document.
 
-=======================================================================================================================================================================
+====================================================================================
 
 **Grupa 10:**
 
