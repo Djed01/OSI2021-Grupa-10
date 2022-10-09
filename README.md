@@ -41,7 +41,9 @@ Administrators can create or delete accounts of all the users in the system. Acc
 
 This is a console application. Tests for this application are written in detail, there is a final report, as well as a manual for installation and SRS document.
 
-Grupa 10:
+========================================================================================================================================================================================
+
+*Grupa 10:*
 
 Gordan Letić
 
