@@ -43,9 +43,14 @@ This is a console application. Tests for this application are written in detail,
 
 ========================================================================================================================================================================================
 
-###Grupa 10:
+**Grupa 10:**
+
 *Gordan Letić*
+
 *Novica Tepić*
+
 *Darijo Prerad*
+
 *Siniša Radeta*
+
 *Zoran Jeftenić*
