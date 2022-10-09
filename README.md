@@ -23,7 +23,7 @@ Nalog za šefove omogućava pregled izvještaja o završenim letovima na dnevnom
 
 Naloge svih zaposlenih kreiraju/brišu administratori. Nalozi se mogu privremeno suspendovati, pri čemu se ne brišu već se korisnici ne mogu prijaviti na sistem. U sistemu postoje najviše 2 administratora i 3 šefa.
 
-==============================================================
+**===============================[ENG]===========================**
 
 Project specification:
 
